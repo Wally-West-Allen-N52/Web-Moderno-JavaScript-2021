@@ -1,0 +1,13 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Athena Natalie Alves oliveira",
+            "email": "AthenaNatalieAO@gmail.com"
+        }, {
+            "id": 2,
+            "name": "Thomas Wallace Alves Oliveira",
+            "email": "ThomasWallaceAO@gmail.com"
+        }
+    ]
+}
